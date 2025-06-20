@@ -1,19 +1,28 @@
 {
   "name": "github-finder",
+<<<<<<< HEAD
   "homepage": "https://AasmaNoor123.github.io/Github-dev-finder",
+=======
+>>>>>>> 5eb29e6cc72b04cf672eef67c00fdf6c47154789
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
+=======
+>>>>>>> 5eb29e6cc72b04cf672eef67c00fdf6c47154789
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 5eb29e6cc72b04cf672eef67c00fdf6c47154789
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
