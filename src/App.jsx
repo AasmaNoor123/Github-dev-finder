@@ -14,9 +14,7 @@ return (
   <div id="container">
     <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/><br />
     <i><h1>Github Dev Finder</h1></i>
- {/* <h1>
-  <i className="fab fa-github"></i> Github Dev Finder
-</h1> */}
+
     <input
       id="username"
       placeholder="Enter github username.."
